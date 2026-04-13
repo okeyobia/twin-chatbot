@@ -7,11 +7,9 @@ description: System architecture for the AI Digital Twin application using FastA
 
 
 
-![AI Digital Twin App Architecture](public/architecture.png)
+![AI Digital Twin App Architecture](frontend/public/architecture.png)
 
-![Gemini Generated Architecture](public/Gemini_Generated_Image.png)
-
-![User-Web Interaction](public/User-Web-Interaction.png)
+![Gemini Generated Architecture](frontend/public/Gemini_Generated_Image.png)
 
 ## Components
 
