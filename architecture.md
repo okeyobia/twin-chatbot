@@ -5,27 +5,13 @@ description: System architecture for the AI Digital Twin application using FastA
 
 # AI Digital Twin App Architecture
 
-```mermaid
-graph TD
-    A[User (Web Browser)] -->|HTTP/HTTPS| B[Next.js Frontend]
-    B -->|REST API| C[FastAPI Backend]
-    C -->|OpenAI API| D[OpenAI GPT-4o]
-    C -->|Read/Write| E[Memory (JSON Files)]
-    C -->|Read| F[me.txt Personality File]
-    B -->|Static Assets| G[Public Directory]
-    B -->|API| C
-    C -->|Serve| H[Health, Sessions Endpoints]
-    subgraph Frontend
-        B
-        G
-    end
-    subgraph Backend
-        C
-        E
-        F
-        H
-    end
-```
+
+
+![AI Digital Twin App Architecture](public/architecture.png)
+
+![Gemini Generated Architecture](public/Gemini_Generated_Image.png)
+
+![User-Web Interaction](public/User-Web-Interaction.png)
 
 ## Components
 
