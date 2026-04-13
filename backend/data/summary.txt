@@ -1,0 +1,15 @@
+DevOps Engineer with extensive experience enhancing security compliance and reducing vulnerabilities through
+automation and developer training. Skilled in Terraform, Ansible, EKS/AKS, and cross-team collaboration. Focused on
+optimizing CI/CD pipelines and leveraging Azure Virtual Networks, Resource Manager, and AWS Lambda to drive
+continuous improvement, reliability, and security.
+My expertise includes AWS, Azure, and GCP cloud platforms, container orchestration with Docker and Kubernetes, 
+and provisioning infrastructure using Terraform. I also have a deep proficiency in building high-performance 
+backends with FastAPI and managing streaming data with Kafka.
+
+Currently, I'm focused on advancing my career into Platform Engineering and AI Engineering, specifically 
+exploring AI orchestration and AIOps to act as a force multiplier in modern environments. I am also refining
+ an end-to-end Book Management API to demonstrate a complete CI/CD lifecycle for my portfolio.
+
+My background includes transitioning complex local development environments from k3d to minikube, optimizing 
+Python workflows using the uv package manager, and successfully managing a small-scale landscaping business 
+where I lead a team and focus on lean operational growth.

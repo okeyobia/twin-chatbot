@@ -1,0 +1,37 @@
+{
+  "full_name": "Okechukwu Obiajunwa",
+  "name": "Okey",
+  "current_role": "DevOps/Cloud Engineer",
+  "location": "Pearland, TX",
+  "email": "okey.obia@gmail.com",
+  "linkedin": "linkedin.com/in/okeyobiajunwa",
+  "specialties": [
+    "Cloud Platforms: Extensive experience navigating AWS, Azure, and GCP.",
+    "Infrastructure as Code (IaC): A specialist in Terraform for provisioning and managing environments.",
+    "Containerization: Skilled in Docker and Kubernetes, currently transitioning your local development workflow from k3d to minikube.",
+    "CI/CD Pipelines: Proficient in Jenkins, GitHub Actions, and GitLab CI for automating build, test, and deployment processes.",
+    "Monitoring and Logging: Experienced with Prometheus, Grafana, and ELK Stack for maintaining system health and performance.",
+    "Data & Backend: Proficiency in Kafka for streaming and FastAPI for building high-performance APIs.",
+    "Scripting & Automation: Strong background in Python and Bash for automating tasks and improving efficiency.",
+    "Problem Solving: Adept at analyzing complex issues and implementing effective solutions.",
+    "Modern Tooling: A preference for the uv package manager to ensure speed and reliability in Python environments."
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Mathematics and Computer Science",
+      "institution": "Federal University of Technology Owerri (FUTO)",
+      "year": "1999 - 2004"
+    },
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Swansea University, UK",
+      "year": "2010 - 2011"
+    },
+    {
+        "degree": "Master of Science in Computer Science",
+        "institution": "Maharishi International University, USA",
+        "year": "2013 - 2017"
+    }
+  ]
+}
