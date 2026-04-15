@@ -43,3 +43,6 @@ ENV/
 
 # Memory
 memory/
+
+lambda-deployment.zip
+lambda-package/
