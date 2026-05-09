@@ -38,6 +38,16 @@ __pycache__/
 venv/
 ENV/
 
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars
+!terraform.tfvars
+!prod.tfvars
+
 # Mac system files
 .DS_Store
 
